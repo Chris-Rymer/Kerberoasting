@@ -39,19 +39,11 @@ PowerShell logs show after bypass command was ran, a file named "PowerView.ps1" 
 <br />
 <br />
 Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
+<img src="https://i.imgur.com/3HdIkyo.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
 Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
-<br />
-<br />
-Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
-<br />
-<br />
-Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
+<img src="https://i.imgur.com/Y9C7Ykf.png" height="80%" width="80%" alt="Editme"/>
 </p>
 <h2>Conclusion</h2>
 Edit <br />
