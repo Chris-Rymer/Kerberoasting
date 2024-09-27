@@ -21,7 +21,7 @@ Parse the Prefetch files with PECmd to make it analysis ready: <br/>
 <img src="https://i.imgur.com/oon3EP0.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
+Analyzed event logs, found MSSQLService targeted at 11:18:09 PM on 5/20/2024 from a workstation with the IP of 172.17.79.129:  <br/>
 <img src="https://i.imgur.com/oU8lv3W.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
