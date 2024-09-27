@@ -6,11 +6,13 @@ Alonzo Spotted Weird files on his computer and informed the newly assembled SOC 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>PECmd</b>
+- <b>Event Viewer</b>
+- <b>Splunk</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b>
+- <b>Windows 11</b>
 
 <h2>Findings:</h2>
 
