@@ -6,7 +6,8 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PECmd</b>
+- <b>PECmd (Eric Zimmerman)</b>
+- <b>Timeline Explorer (Eric Zimmerman)</b>
 - <b>Event Viewer</b>
 - <b>Splunk</b> 
 
@@ -25,16 +26,16 @@ Analyzed event logs, found MSSQLService targeted at 11:18:09 PM on 5/20/2024 fro
 <img src="https://i.imgur.com/oU8lv3W.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
+Analyzed event log in Splunk and found a Kerberos service ticket was requested with MSSQLService:  <br/>
+<img src="https://i.imgur.com/Vu6SHBm.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
+Analyzed PowerShell logs and found restriction bypass command used:  <br/>
+<img src="https://i.imgur.com/937FtHO.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
-<img src="link" height="80%" width="80%" alt="Editme"/>
+PowerShell logs show after bypass command was ran, a file named "PowerView.ps1" was executed. This file is part of the PowerSploit framework and is used to enumerate Active Directory for privileged accounts and other network information:  <br/>
+<img src="https://i.imgur.com/rra9UdG.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
 Edit:  <br/>
