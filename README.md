@@ -38,12 +38,12 @@ PowerShell logs show after bypass command was ran, a file named "PowerView.ps1" 
 <img src="https://i.imgur.com/rra9UdG.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
+While analyzing parsed prefetch files with event viewer, found an exploit named "Rubeus" was executed at the same time the DC logged the malicious event. "Rebeus" can extract Kerberos service tickets in Active Directory environments (Kerberoasting), posing a serious security concern:  <br/>
 <img src="https://i.imgur.com/3HdIkyo.png" height="80%" width="80%" alt="Editme"/>
 <br />
 <br />
-Edit:  <br/>
+Found complete file path to the exploit "Rubeus":  <br/>
 <img src="https://i.imgur.com/Y9C7Ykf.png" height="80%" width="80%" alt="Editme"/>
 </p>
 <h2>Conclusion</h2>
-Edit <br />
+At 11:18:09 PM ETC on 5/20/2024 MSSQLService was targeted to bypass PowerShell restrictions. After this was completed, the attacker executed a file named "PowerView.ps1" to enumerate the Active Directory system for privilege escalation. Finally, an exploit named "Rubeus" was executed in order to perform a Kerberoasting attack, confirming original suspicions. This attack has caused a significant security risk to this company's Active Directory environment.<br />
